@@ -2,7 +2,7 @@
 
 Contains DSA questions to crack interviews at Big Companies and Startups.
 
-The website is still incompleted as it has less less number of questions right now.
+The website is still incompleted and under construction as it has less less number of questions right now.
 
 Everyday 2-3 questions will be added.
 
